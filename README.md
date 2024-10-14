@@ -1,7 +1,6 @@
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
-
-###  Olá! Eu sou o Flávio Dutra 👋
+###  Olá! Eu sou o Flávio Miguel 👋
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://programador.com)
 
