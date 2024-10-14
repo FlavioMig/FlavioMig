@@ -1,4 +1,4 @@
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/88622001/185750809-10ec4640-0757-4f79-88c0-a1aa6ed20700.gif)
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 
 ###  Olá! Eu sou o Flávio Dutra 👋
