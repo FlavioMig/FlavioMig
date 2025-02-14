@@ -15,5 +15,5 @@
 <img align="center" alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-14354C?style=for-the-badge&logo=Tensorflow&logoColor=white" />
 </div><br/>
 
-Sou um professor de matemática que gosta de desenvolvimento com algoritmos, e procuro através dos tais, aprimorar a prática em educar.
+Sou um professor de matemática, teimoso por algoritmos, tudo porque não consigo encontrar o parafuso que soltou da cabeça.
 
